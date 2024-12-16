@@ -26,7 +26,14 @@ Documentation and Finalization
 2. Create new column to cleaning the data to store in it and create new table to store all the measures that will make everything organised.
 3. Calculating key metrics like total revenue, total sales quantity, and segmenting by market/product and Analyzing revenue trends and identifying top customers and products for decision-making.
 
-# Some important insights from dashboard
-
+# Some important insights from dashboard 
+1. **Total Revenue**: 984.87M | **Total Sales Quantity**: 2M.  
+2. **Top Market**: Delhi dominates with **519.58M revenue** and **1M sales**, while other markets contribute minimally.  
+3. **Revenue Trend**: A peak in early 2018 followed by a steady decline since mid-2019.  
+4. **Top Customer**: *Electricalsara Stores* contributes **413.33M** (major dependency).  
+5. **Top Product**: A **Blank Product** leads with **468.96M**, indicating data quality issues.  
+6. Other products contribute far less, with *Prod040* at 23.58M.  
+7. Heavy reliance on Delhi and one major customer suggests diversification is needed.  
+8. Sales in other markets are negligible and need improvement.  
 
 
