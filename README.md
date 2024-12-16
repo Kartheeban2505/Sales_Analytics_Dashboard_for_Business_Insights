@@ -21,4 +21,12 @@ Documentation and Finalization
 # Data Model
 ![Data Model Screenshot](https://github.com/user-attachments/assets/b5c0a151-8f3b-4998-9316-b85630a68425)
 
+# Things Learned
+1. Tried using clor palette and stick with that colors throughout the dashboard.
+2. Create new column to cleaning the data to store in it and create new table to store all the measures that will make everything organised.
+3. Calculating key metrics like total revenue, total sales quantity, and segmenting by market/product and Analyzing revenue trends and identifying top customers and products for decision-making.
+
+# Some important insights from dashboard
+
+
 
