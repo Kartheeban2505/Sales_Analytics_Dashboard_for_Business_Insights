@@ -14,3 +14,6 @@ Dashboard Design and Development
 4. Create an interactive dashboard with visualizations for revenue, sales, market insights, and slicers for filtering by year and market.
 Documentation and Finalization
 5. Document the project in a README file, provide key insights, test the dashboard, and deploy it online (optional).
+
+# Dashboard
+![Screenshot 2024-12-16 205131](https://github.com/user-attachments/assets/7b1905f5-dd51-4283-bbac-725ddb626c35)
