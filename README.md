@@ -1,7 +1,7 @@
 # Sales Analytics Dashboard for Business Insights
 
 # Problem Statement
-The computer hardware business is facing difficulties in scaling operations due to the rapidly evolving market and a lack of actionable insights derived from data. The challenge is to design and implement an automated dashboard that consolidates critical metrics to support data-driven decision-making, such as tracking revenue growth, year-over-year (YOY) trends, and region-specific sales performance.
+The computer hardware business is facing difficulties in scaling operations due to the rapidly evolving market and a lack of actionable insights derived from data. The challenge is to design and implement an automated dashboard that consolidates critical metrics to support data-driven decision-making, such as tracking revenue growth, year-over-year (YOY) trends, and region-specific sales performance.This project leverages SQL for data extraction and Power BI for visualization to provide actionable insights, with the ultimate goal of enabling a projected revenue growth of 7% in the upcoming quarter.
 
 # Task List
 1. Data Collection and Preprocessing
