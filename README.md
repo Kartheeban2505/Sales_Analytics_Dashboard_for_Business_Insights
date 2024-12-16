@@ -17,3 +17,8 @@ Documentation and Finalization
 
 # Dashboard
 ![Screenshot 2024-12-16 205131](https://github.com/user-attachments/assets/7b1905f5-dd51-4283-bbac-725ddb626c35)
+
+# Data Model
+![Data Model Screenshot](https://github.com/user-attachments/assets/b5c0a151-8f3b-4998-9316-b85630a68425)
+
+
